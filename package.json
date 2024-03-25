@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "typescript": "^5.4.3"
+  },
+  "name": "@professor-dollar/number-guessing-game",
+  "version": "1.0.7",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
